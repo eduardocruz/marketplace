@@ -16,7 +16,7 @@ a ten-check diagnosis of your repository. Runs entirely on your machine: no
 account, no dependencies.
 
 ```
-/plugin install throughline@eduardocruz
+/plugin install throughline@eduardocruz-marketplace
 ```
 
 Source and documentation: [eduardocruz/throughline](https://github.com/eduardocruz/throughline)

@@ -1,11 +1,11 @@
 {
-  "name": "eduardocruz",
+  "name": "eduardocruz-marketplace",
   "owner": {
     "name": "Eduardo Cruz",
     "url": "https://eduardocruz.com"
   },
   "metadata": {
-    "description": "Plugins by Eduardo Cruz — tooling for founders whose AI agents do the building.",
+    "description": "Plugins by Eduardo Cruz \u2014 tooling for founders whose AI agents do the building.",
     "version": "0.1.0"
   },
   "plugins": [
@@ -15,10 +15,16 @@
         "source": "github",
         "repo": "eduardocruz/throughline"
       },
-      "description": "Give your AI agent the context it is missing about your business: a local goal ladder, three active guidelines, sourced decisions, and a 10-check diagnosis of your repo. Runs entirely on your machine — no account.",
+      "description": "Give your AI agent the context it is missing about your business: a local goal ladder, three active guidelines, sourced decisions, and a 10-check diagnosis of your repo. Runs entirely on your machine \u2014 no account.",
       "version": "0.1.0",
       "category": "productivity",
-      "keywords": ["context", "audit", "due-diligence", "goals", "decision-log"]
+      "keywords": [
+        "context",
+        "audit",
+        "due-diligence",
+        "goals",
+        "decision-log"
+      ]
     }
   ]
 }
