@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Plugins by Eduardo Cruz \u2014 tooling for founders whose AI agents do the building.",
-    "version": "0.1.0"
+    "version": "0.2.0"
   },
   "plugins": [
     {
@@ -14,10 +14,10 @@
       "source": {
         "source": "url",
         "url": "https://github.com/eduardocruz/throughline.git",
-        "sha": "3f4feaa08e2a74ed1e260599d5163492701167a0"
+        "sha": "f244160efdf602ba8db08d8eac2d0d16f831fd02"
       },
       "description": "Give your AI agent the context it is missing about your business: a local goal ladder, three active guidelines, sourced decisions, and a 10-check diagnosis of your repo. Runs entirely on your machine \u2014 no account.",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "category": "productivity",
       "keywords": [
         "context",
