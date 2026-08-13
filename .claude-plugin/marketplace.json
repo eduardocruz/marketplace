@@ -12,8 +12,8 @@
     {
       "name": "throughline",
       "source": {
-        "source": "github",
-        "repo": "eduardocruz/throughline"
+        "source": "git",
+        "url": "https://github.com/eduardocruz/throughline.git"
       },
       "description": "Give your AI agent the context it is missing about your business: a local goal ladder, three active guidelines, sourced decisions, and a 10-check diagnosis of your repo. Runs entirely on your machine \u2014 no account.",
       "version": "0.1.0",
