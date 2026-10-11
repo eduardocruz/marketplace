@@ -14,7 +14,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/eduardocruz/throughline.git",
-        "sha": "02c55ee1f093678efdbf83ef9beaa31af2be6e6c"
+        "sha": "e3d77fb174774124074c87147b42707bc9176f6e"
       },
       "description": "Give your AI agent the context it is missing about your business: the week goal it should judge work against, and what is open and on whom. Plus a 10-check diagnosis of your repo. Runs on your machine \u2014 no account.",
       "version": "0.6.0",
