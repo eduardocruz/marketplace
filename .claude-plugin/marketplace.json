@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Plugins by Eduardo Cruz \u2014 tooling for founders whose AI agents do the building.",
-    "version": "0.6.0"
+    "version": "0.7.0"
   },
   "plugins": [
     {
@@ -25,6 +25,23 @@
         "due-diligence",
         "goals",
         "decision-log"
+      ]
+    },
+    {
+      "name": "6529-validator-mod",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/eduardocruz/6529-validator-mod.git",
+        "sha": "88c47d4221dd82887279fd10678a91f90917134e"
+      },
+      "description": "Set up and watch a 6529 validator on your own DigitalOcean server, step by step in a pane beside the chat. Uses DigitalOcean's own doctl; the mod never holds your token or keys.",
+      "version": "0.1.0",
+      "category": "productivity",
+      "keywords": [
+        "6529",
+        "validator",
+        "digitalocean",
+        "pane"
       ]
     }
   ]
